@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
 
 ---
@@ -22,18 +21,16 @@
 ### 🛠️ Technical Interests & Experience
 
 **Networking**
-- Multi-protocol enterprise topologies in Packet Tracer: BGP, OSPF, EIGRP, NAT, VLANs, VoIP/CME, DHCP relay
-- CCNP TSHOOT preparation, Layer 3 switch topologies, EtherChannel
+- Multi-protocol enterprise topologies in Packet Tracer
 
 **Databases**
-- PostgreSQL: writing triggers, functions, and procedures
+- PostgreSQL
 
 ---
 
 ### 📌 Currently Working On
 
-- [ ] java quarkus
-- [ ] javascript vue.js
+- web&mobile programming, data analysis&LLM's, Real world Projects.
 
 ---
 
@@ -51,8 +48,5 @@
 ### 📫 Contact
 
 - 📧 Email: **[efesener-business@hotmail.com]**
-- 🔗 link: **[]**
 
 ---
-
-<p align="center"><i>This profile is updated over time.</i></p>
